@@ -1,0 +1,19 @@
+
+
+
+purp spec
+#BDB2F5
+#E3DFFB
+#9884EF
+
+red spec
+#F9CDD2
+#F496A1
+#4D0A19
+
+green ish spec
+#BCFEE9
+#094A3C
+
+other:
+#EEF1F0
